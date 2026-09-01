@@ -1,0 +1,9 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nd_terminal_ui"
+version = "1.0.0"
+description = "My custom terminal UI utility module"
+requires-python = ">=3.10"
